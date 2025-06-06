@@ -41,4 +41,4 @@ The workflow covers:
 See `requirements.txt` for a list of Python packages.
 
 ## Author
-Your Name / Your GitHub Username
+Emmanouil Amygdalas / mamigdalas
