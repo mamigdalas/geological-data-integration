@@ -1,0 +1,3 @@
+Well: Appraisal-X (Well Name)
+
+"The Appraisal-X well was drilled to assess the extent of the Devonian Shale Formation (Formation Name) in a new prospect. The primary lithology encountered was organic-rich black shale (Rock Type, Lithology) throughout the entire drilled interval from 2900m to 3100m (Depth). Geochemical analysis of samples from this section confirmed significant amounts of wet gas (Fluid Type), indicating potential for unconventional resource development. No major faults (Faults) or structural discontinuities were identified within the target zone, suggesting lateral continuity of the shale play."

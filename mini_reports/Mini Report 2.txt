@@ -1,0 +1,3 @@
+Well: Frontier-7 (Well Name)
+
+"During the drilling of Well Frontier-7, a significant geological feature was encountered at 4120m (Depth), interpreted as a major reverse fault (Fault). This fault separates two distinct geological units. Above the fault, the Cretaceous Shale Formation (Formation Name) was identified, characterized by its dark gray, fissile shale (Rock Type, Lithology). Below the fault, a highly fractured dolomite (Rock Type, Lithology) was penetrated, showing minor gas (Fluid Type) indications. Further analysis is required to assess the reservoir potential of the deeper fractured zone."

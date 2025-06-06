@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+venv/ # Virtual environment folder
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+# If you save any .ipynb files for reference, otherwise ignore them.
+# *.ipynb
+
+# Operating System
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# Data (if too large or sensitive, otherwise include in 'data' folder)
+# *.csv # Uncomment if you want to ignore all CSVs not in the data folder
+# *.xls
+# *.xlsx
+
+# Logs
+*.log
+
+# Specific outputs (if you want to regenerate them rather than commit)
+# images/*.png # Uncomment if you don't want to commit generated plots

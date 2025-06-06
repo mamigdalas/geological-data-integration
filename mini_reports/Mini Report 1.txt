@@ -1,0 +1,5 @@
+
+
+**Well: Explorer-1 (Well Name)**
+
+"Drilling operations for **Well Explorer-1** concluded at a total depth of **3200m** (Depth). Significant geological findings were noted within the **Jurassic Sandstone Formation** (Formation Name), encountered between **2850m and 2950m** (Depth). This interval primarily consisted of **fine-grained sandstone** (Rock Type, Lithology) with excellent porosity and permeability, indicating good reservoir potential. Fluid analysis during drilling indicated the presence of **light crude oil** (Fluid Type) within the upper section of this formation."

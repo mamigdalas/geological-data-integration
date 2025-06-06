@@ -1,0 +1,4 @@
+Well: Prospect-B3 (Well Name)
+
+"An unexpected challenge arose during drilling of Prospect-B3 when a significant strike-slip fault (Fault) was encountered at 2150m (Depth), causing drilling difficulties and mud losses. Above the fault, the well penetrated the Tertiary Claystone Formation (Formation Name), characterized by its unconsolidated claystone (Rock Type, Lithology). Below the fault, a highly prospective volcaniclastics (Rock Type, Lithology) unit was identified. Initial analyses suggest the presence of heavy oil (Fluid Type) within pore spaces of the volcaniclastics, requiring further evaluation for commercial viability."
+

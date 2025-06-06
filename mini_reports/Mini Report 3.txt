@@ -1,0 +1,4 @@
+
+Well: Discovery-A2 (Well Name)
+
+"Preliminary logging results from Discovery-A2 highlight the presence of the Permian Carbonate Formation (Formation Name) between 3500m and 3650m (Depth). This interval is predominantly composed of vuggy limestone (Rock Type, Lithology), suggesting a naturally fractured and porous reservoir. Hydrocarbon analysis confirmed the presence of condensate gas (Fluid Type) within the upper 50 meters of this section. No major structural anomalies, such as a fault (Fault), were observed within the immediate vicinity of the wellbore, indicating a relatively continuous reservoir body."
